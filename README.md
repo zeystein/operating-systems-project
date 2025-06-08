@@ -4,8 +4,8 @@ Bu proje, 2024-2025 Bahar Dönemi **İşletim Sistemleri** dersi kapsamında haz
 
 ## 👥 Katkıda Bulunanlar
 
-- **Zeynep Sude Güneş** – 22360859055  
-- **Ahmet Can Yarba** – 21360859076
+- **Zeynep Sude Güneş** –
+- **Ahmet Can Yarba** –
 
 ---
 
